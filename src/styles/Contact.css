@@ -1,0 +1,52 @@
+.contactMain {
+  margin-top: 50px;
+  padding: 50px 0 80px 0;
+}
+
+.contactMain h2 {
+  font-family: "Oswald", sans-serif !important;
+  text-align: center;
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 65px;
+  color: #1f1f1f;
+}
+.contactMain h3 {
+  font-family: "Oswald", sans-serif !important;
+  text-align: center;
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 30px;
+  color: #1f1f1f;
+}
+
+.contactMain p {
+  font-family: "Open Sans", sans-serif !important;
+  text-align: center;
+  font-weight: 400;
+  letter-spacing: 2px;
+  font-size: 25px;
+  color: #1f1f1f;
+}
+.contactElement {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  transition: transform 0.4s; /* Animation */
+}
+.contactElement p {
+  font-size: 18px;
+}
+
+.contactElement:hover {
+  transform: scale(1.05);
+}
+
+hr {
+  width: 300px;
+  margin: auto;
+  padding: 10px 0 10px 0;
+  border-top: 2px solid #1f1f1f;
+}

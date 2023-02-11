@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&display=swap");
+
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Oswald:wght@500&display=swap");
+
+.navScroll {
+  background-color: #f8f8f8 !important;
+}
+
+.logo {
+  max-width: 100px;
+}
+.nav-size {
+  padding: 20px 0px 20px 0px !important;
+}
+.nav-link {
+  color: #1f1f1fec !important;
+  font-family: "Oswald", sans-serif;
+  font-size: 22px !important;
+  letter-spacing: 1px;
+  margin-right: 10px;
+  margin-left: 10px;
+  align-items: center;
+}
+
+.nav-link:hover {
+  color: #0f0f0f !important;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(31,31,31, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+}
+
+.navbar-toggler {
+  border: none;
+}

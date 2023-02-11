@@ -1,0 +1,50 @@
+.projectsList {
+  margin-top: 100px;
+  background: linear-gradient(
+    109.6deg,
+    rgb(20, 30, 48) 11.2%,
+    rgb(36, 59, 85) 91.1%
+  );
+  padding: 50px 0 80px 0;
+}
+
+#project {
+  scroll-margin-top: 80px;
+}
+
+.projectsList h2 {
+  font-family: "Oswald", sans-serif !important;
+  text-align: left;
+  font-weight: 900;
+  letter-spacing: 2px;
+  font-size: 65px;
+  color: white;
+}
+
+.projectsList p {
+  font-family: "Open Sans", sans-serif !important;
+  text-align: left;
+  font-weight: 400;
+  letter-spacing: 2px;
+  font-size: 25px;
+  color: white;
+}
+
+.addSpace {
+  margin-top: 5px;
+}
+
+.card-text {
+  font-size: 14px !important;
+  font-family: "Open Sans", sans-serif !important;
+  text-align: justify !important;
+  color: #1f1f1f !important;
+}
+
+.projectsElement {
+  transition: transform 0.4s; /* Animation */
+}
+
+.projectsElement:hover {
+  transform: translate(0px, -9px);
+}

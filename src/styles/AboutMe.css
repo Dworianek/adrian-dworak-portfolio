@@ -1,0 +1,96 @@
+.aboutMain {
+  margin-top: 12rem;
+  margin-bottom: 10rem;
+}
+
+#about {
+  scroll-margin-top: 140px;
+}
+
+.aboutPhoto img {
+  max-width: 380px;
+}
+
+.aboutDescription {
+  text-align: left;
+  color: #1f1f1f !important;
+}
+
+.aboutMeList ul {
+  padding: 0;
+  margin-top: 30px;
+  margin-left: 20px;
+  list-style: none;
+  gap: 1rem;
+  font-size: 18px;
+  font-weight: 200;
+  font-family: "Open Sans", sans-serif !important;
+  letter-spacing: 0.8px;
+}
+.aboutMeList li {
+  padding-top: 5px;
+}
+.aboutDescription h1 {
+  font-family: "Oswald", sans-serif !important;
+  text-align: left;
+  font-weight: 900;
+  letter-spacing: 2px;
+}
+
+.aboutDescription h3 {
+  font-family: "Oswald", sans-serif !important;
+  text-align: left;
+  letter-spacing: 0.7px;
+}
+
+.large-windowImg {
+  text-align: end;
+}
+
+.small-windowImg {
+  text-align: center;
+}
+
+.small-windowDesc .aboutDescription {
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-cv-hover {
+  width: 160px;
+  font-size: 16px;
+  font-weight: 600;
+  color: #fff;
+  cursor: pointer;
+  margin: 20px;
+  height: 55px;
+  text-align: center;
+  border: none;
+  background-size: 300% 100%;
+  border-radius: 50px;
+  -o-transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.btn-cv-hover:hover {
+  background-position: 100% 0;
+  -o-transition: all 0.4s ease-in-out;
+  -webkit-transition: all 0.4s ease-in-out;
+  transition: all 0.4s ease-in-out;
+}
+
+.btn-cv-hover {
+  background-image: linear-gradient(
+    to right,
+    #141e30,
+    #4481eb,
+    #04befe,
+    #3f86ed
+  );
+  box-shadow: 0 4px 15px 0 rgba(65, 132, 234, 0.75);
+  font-family: "Open Sans", sans-serif;
+}
