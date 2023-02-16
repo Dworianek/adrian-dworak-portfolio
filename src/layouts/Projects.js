@@ -21,19 +21,22 @@ const Projects = () => {
     {
       name: t("project1Header"),
       desc: t("project1Text"),
-      link: t("projectButton"),
+      linkGithub: "https://github.com/Dworianek/grafik-pracowniczy",
+      linkPage: "https://dworianek.github.io/grafik-pracowniczy/",
       photo: project1_photo,
     },
     {
       name: t("project2Header"),
       desc: t("project2Text"),
-      link: t("projectButton"),
+      linkGithub: "https://github.com/Dworianek/rgb-guessr",
+      linkPage: "https://dworianek.github.io/rgb-guessr/",
       photo: project1_photo,
     },
     {
       name: t("project3Header"),
       desc: t("project3Text"),
-      link: t("projectButton"),
+      linkGithub: "https://github.com/Dworianek/password_generator",
+      linkPage: "https://dworianek.github.io/password_generator/",
       photo: project1_photo,
     },
   ];

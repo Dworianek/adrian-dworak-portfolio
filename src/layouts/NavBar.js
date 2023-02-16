@@ -44,10 +44,9 @@ const Navs = () => {
     <Navbar
       expand="lg"
       className={
-        scrolled ? "nav-size fixed-top navScroll" : "nav-size fixed-top "
+        scrolled ? "nav-size fixed-top navScroll" : "nav-size fixed-top navScroll"
       }
     >
-      {/* <Navbar expand="md" className="nav-size fixed-top"> */}
       <Container>
         <Navbar.Brand href="#home">
           <img

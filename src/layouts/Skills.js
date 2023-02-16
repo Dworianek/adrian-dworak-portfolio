@@ -53,7 +53,7 @@ const Skills = () => {
           <h2> {t("skillsHeader")}</h2>
           <p> {t("skillsText")}</p>
           <div>
-            <Row xl={6} md={4} sm={3} xs={3}>
+            <Row xl={6} md={4} sm={3} xs={2}>
               {skills}
             </Row>
           </div>

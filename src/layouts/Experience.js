@@ -23,7 +23,7 @@ const Experience = () => {
               <p>{t("experienceText")}</p>
             </Col>
             <Col xl={7}>
-              <Row className="align-items-center jobElement mt-3 pt-2 pb-2">
+              <Row className="align-items-center jobElement mt-3 pt-2 pb-2 ms-1 me-1">
                 <Col md={3} sm={12} className="companyElement ps-3">
                   Bis-Biznes
                 </Col>
@@ -45,7 +45,7 @@ const Experience = () => {
                   {t("experienceWork1Date")}
                 </Col>
               </Row>
-              <Row className="align-items-center jobElement mt-3 pt-2 pb-2">
+              <Row className="align-items-center jobElement mt-3 pt-2 pb-2 ms-1 me-1">
                 <Col md={3} className="companyElement ps-3">
                   Serix
                 </Col>
@@ -65,7 +65,7 @@ const Experience = () => {
                   {t("experienceWork2Date")}
                 </Col>
               </Row>
-              <Row className="align-items-center jobElement mt-3 pt-2 pb-2">
+              <Row className="align-items-center jobElement mt-3 pt-2 pb-2 ms-1 me-1">
                 <Col md={3} className="companyElement ps-3">
                   Freelancer
                 </Col>

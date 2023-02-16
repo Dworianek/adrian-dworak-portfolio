@@ -6,6 +6,9 @@ import "../styles/Projects.css";
 
 import Col from "react-bootstrap/Col";
 
+import { FiGithub } from "react-icons/fi";
+import { BiLink } from "react-icons/bi";
+
 import React from "react";
 
 const Project = (props) => {
@@ -18,7 +21,20 @@ const Project = (props) => {
             <Card.Body>
               <Card.Title>{props.name}</Card.Title>
               <Card.Text>{props.desc}</Card.Text>
-              <Button variant="dark">{props.link}</Button>
+              <div className="d-flex justify-content-evenly">
+              <Button href={props.linkGithub} target="_blank" variant="dark"><FiGithub
+                  style={{
+                    color: "white",
+                    fontSize: "18px",
+                  }}
+                />Link do Github</Button>
+              <Button href={props.linkPage} target="_blank" variant="dark"><BiLink
+                  style={{
+                    color: "white",
+                    fontSize: "18px",
+                  }}
+                />Link do Projektu </Button>
+              </div>
             </Card.Body>
           </Card>
         </Col>
