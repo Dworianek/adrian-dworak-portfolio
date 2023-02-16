@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/adrian-dworak-portfolio/static/css/main.e6e57470.css",
-    "main.js": "/adrian-dworak-portfolio/static/js/main.9b8795ef.js",
+    "main.css": "/adrian-dworak-portfolio/static/css/main.6a0f2c19.css",
+    "main.js": "/adrian-dworak-portfolio/static/js/main.6ea16a34.js",
     "static/media/test.jpg": "/adrian-dworak-portfolio/static/media/test.ce42ec4465a49f1b35fa.jpg",
     "static/media/aboutMe.png": "/adrian-dworak-portfolio/static/media/aboutMe.013a6391e532c2a7483a.png",
     "static/media/seo-icon.svg": "/adrian-dworak-portfolio/static/media/seo-icon.c70aad78a4747371bda25500e8054148.svg",
@@ -23,11 +23,11 @@
     "static/media/poland.svg": "/adrian-dworak-portfolio/static/media/poland.655d504e9531afc0c391aa475bfb8a30.svg",
     "index.html": "/adrian-dworak-portfolio/index.html",
     "static/media/css-icon.svg": "/adrian-dworak-portfolio/static/media/css-icon.60e23942f41d4dc73de0d271b4453605.svg",
-    "main.e6e57470.css.map": "/adrian-dworak-portfolio/static/css/main.e6e57470.css.map",
-    "main.9b8795ef.js.map": "/adrian-dworak-portfolio/static/js/main.9b8795ef.js.map"
+    "main.6a0f2c19.css.map": "/adrian-dworak-portfolio/static/css/main.6a0f2c19.css.map",
+    "main.6ea16a34.js.map": "/adrian-dworak-portfolio/static/js/main.6ea16a34.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6e57470.css",
-    "static/js/main.9b8795ef.js"
+    "static/css/main.6a0f2c19.css",
+    "static/js/main.6ea16a34.js"
   ]
 }
