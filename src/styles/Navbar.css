@@ -33,3 +33,10 @@
 .navbar-toggler {
   border: none;
 }
+
+.countryFlag {
+  transition: transform 0.4s; /* Animation */
+}
+.countryFlag:hover {
+  transform: translate(0px, -3px);
+}

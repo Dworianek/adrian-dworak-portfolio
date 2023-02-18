@@ -44,7 +44,9 @@ const Navs = () => {
     <Navbar
       expand="lg"
       className={
-        scrolled ? "nav-size fixed-top navScroll" : "nav-size fixed-top navScroll"
+        scrolled
+          ? "nav-size fixed-top navScroll"
+          : "nav-size fixed-top navScroll"
       }
     >
       <Container>
@@ -69,6 +71,7 @@ const Navs = () => {
               const { code, native } = lng;
               return (
                 <img
+                  className="countryFlag"
                   src={native}
                   style={{ paddingLeft: "5px", maxWidth: "25px" }}
                   onClick={() => handleTrans(code)}
