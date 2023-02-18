@@ -39,6 +39,13 @@ const Projects = () => {
       linkPage: "https://dworianek.github.io/password_generator/",
       photo: project1_photo,
     },
+    {
+      name: t("project4Header"),
+      desc: t("project4Text"),
+      linkGithub: "https://github.com/Dworianek/weather-app",
+      linkPage: "https://dworianek.github.io/weather-app/",
+      photo: project1_photo,
+    },
   ];
 
   const projects = project_base.map((project) => (

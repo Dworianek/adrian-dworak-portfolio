@@ -32,15 +32,19 @@ i18n.use(initReactI18next).init({
         //Proejct1
         project1Header: "Grafik Pracowniczy",
         project1Text:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "Pomysł na aplikację narodził się w poprzedniej pracy. Grafik online ma na celu ułatwić zarządzanie jak i przekazanie  grafiku pracownikom zarówno z Polski jak i ukrainy. Dodatkowo zaimplementowany został minimalistyczny panel administratora służący do zmiany hasła.",
         //Proejct2
-        project2Header: "Aplikacja Inwentaryzacyjna",
+        project2Header: "Generator Hasła",
         project2Text:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "Prosta aplikacja służąca do generowania losowego hasła w celu uniknięcia podawania przy rejestracji prostych, standardowych haseł. Do wyboru mamy możliwość skorzystania z kilku metod generacji hasła (małe litery, duże litery, cyfry jak i znaki specjalne).",
         //Proejct3
-        project3Header: "Gradient Generator",
+        project3Header: "Gra - zgadywanie koloru RGB",
         project3Text:
-          "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "Gra komputerowa której głównym celem jest odbadnięcie wcześniej wylosowanego koloru RGB. Sama rozgrywka polega na poprawnym wskazaniu kafelka o kolorze który naszym zdaniem jest poszukiwanym odcieniem. Każda liczba prób jest zliczana i podawana finalnie jako wynik.",
+        //Proejct4
+        project4Header: "Aplikacja Pogodowa",
+        project4Text:
+          "Aplikacja pogodowa której napisane było zmotywowane poznaniem tematyki API. Prosta aplikacja pozwala na uzyskanie informacji pogodowych takich jak: temperatura, ciśnienie, godzina wschodu czy zachodu słońca. Istnieje możliwość podania interesującego nas miasta.",
         // Skills Text
         skillsHeader: "Umiejętności",
         skillsText: "Technologie i narzędzia z których korzystam.",
@@ -95,18 +99,22 @@ i18n.use(initReactI18next).init({
         projectHeader: "Projects",
         projectText: "Take a look at my recent projects.",
         projectButton: "Check Project",
-        //Proejct1
+        //Project1
         project1Header: "Employee Scheduler",
         project1Text:
-          "ENGLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        //Proejct2
-        project2Header: "Inventory application",
+          "The idea for the application was born in a previous job. The online schedule is designed to facilitate the management and transfer of the schedule to employees from both Poland and Ukraine. In addition, a minimalist administrator panel has been implemented for changing the password.",
+        //Project2
+        project2Header: "Password Generator",
         project2Text:
-          "ENGLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
-        //Proejct3
-        project3Header: "Gradient Generator",
+          "A simple application used to generate a random password in order to avoid entering simple, standard passwords during registration. We can choose from several methods of password generation (lowercase letters, uppercase letters, numbers and special characters).",
+        //Project3
+        project3Header: "Game - RGB color guessing",
         project3Text:
-          "ENGLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+          "A computer game whose main goal is to check the previously drawn RGB color. The game itself consists in correctly indicating a tile with a color that we think is the shade we are looking for. Each number of attempts is counted and finally given as a result.",
+        //Project4
+        project4Header: "Weather App",
+        project4Text:
+          "The weather application which was written motivated by learning about the API. A simple application allows you to obtain weather information such as: temperature, pressure, time of sunrise or sunset. You can enter the city you are interested in.",
         // Skills Text
         skillsHeader: "Skills",
         skillsText: "Technologies and tools I use.",
