@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/adrian-dworak-portfolio/static/css/main.bb252509.css",
-    "main.js": "/adrian-dworak-portfolio/static/js/main.bf6e9473.js",
+    "main.js": "/adrian-dworak-portfolio/static/js/main.01364d42.js",
     "static/media/aboutMe.png": "/adrian-dworak-portfolio/static/media/aboutMe.013a6391e532c2a7483a.png",
     "static/media/Projekt5.JPG": "/adrian-dworak-portfolio/static/media/Projekt5.fc1b91239e02ede49772.JPG",
     "static/media/Projekt1.JPG": "/adrian-dworak-portfolio/static/media/Projekt1.5db1e3e7ce3c120062dc.JPG",
@@ -28,10 +28,10 @@
     "index.html": "/adrian-dworak-portfolio/index.html",
     "static/media/css-icon.svg": "/adrian-dworak-portfolio/static/media/css-icon.60e23942f41d4dc73de0d271b4453605.svg",
     "main.bb252509.css.map": "/adrian-dworak-portfolio/static/css/main.bb252509.css.map",
-    "main.bf6e9473.js.map": "/adrian-dworak-portfolio/static/js/main.bf6e9473.js.map"
+    "main.01364d42.js.map": "/adrian-dworak-portfolio/static/js/main.01364d42.js.map"
   },
   "entrypoints": [
     "static/css/main.bb252509.css",
-    "static/js/main.bf6e9473.js"
+    "static/js/main.01364d42.js"
   ]
 }
