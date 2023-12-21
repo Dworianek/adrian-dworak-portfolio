@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/adrian-dworak-portfolio/static/css/main.bb252509.css",
-    "main.js": "/adrian-dworak-portfolio/static/js/main.bf52d9ec.js",
+    "main.js": "/adrian-dworak-portfolio/static/js/main.e9c0a663.js",
     "static/media/aboutMe.png": "/adrian-dworak-portfolio/static/media/aboutMe.013a6391e532c2a7483a.png",
     "static/media/Projekt5.JPG": "/adrian-dworak-portfolio/static/media/Projekt5.1c202a3a278ec1e23558.JPG",
     "static/media/Projekt1.JPG": "/adrian-dworak-portfolio/static/media/Projekt1.5db1e3e7ce3c120062dc.JPG",
-    "static/media/Projekt6.JPG": "/adrian-dworak-portfolio/static/media/Projekt6.94ae1def28863f7652b8.JPG",
+    "static/media/Projekt6.JPG": "/adrian-dworak-portfolio/static/media/Projekt6.ad9398adbe209f434846.JPG",
     "static/media/Projekt2.JPG": "/adrian-dworak-portfolio/static/media/Projekt2.8b7c6a6490147a479044.JPG",
     "static/media/Projekt4.JPG": "/adrian-dworak-portfolio/static/media/Projekt4.7e73bc506867c0b30a09.JPG",
     "static/media/Projekt3.JPG": "/adrian-dworak-portfolio/static/media/Projekt3.1915f6230b529c373073.JPG",
@@ -29,10 +29,10 @@
     "index.html": "/adrian-dworak-portfolio/index.html",
     "static/media/css-icon.svg": "/adrian-dworak-portfolio/static/media/css-icon.60e23942f41d4dc73de0d271b4453605.svg",
     "main.bb252509.css.map": "/adrian-dworak-portfolio/static/css/main.bb252509.css.map",
-    "main.bf52d9ec.js.map": "/adrian-dworak-portfolio/static/js/main.bf52d9ec.js.map"
+    "main.e9c0a663.js.map": "/adrian-dworak-portfolio/static/js/main.e9c0a663.js.map"
   },
   "entrypoints": [
     "static/css/main.bb252509.css",
-    "static/js/main.bf52d9ec.js"
+    "static/js/main.e9c0a663.js"
   ]
 }
