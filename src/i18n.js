@@ -52,7 +52,7 @@ i18n.use(initReactI18next).init({
         //Proejct6
         project6Header: "Aplikacja Mood-App",
         project6Text:
-          "Aplikacja do wywiadu z samopoczucia pozwala użytkownikom śledzić swoje codzienne doświadczenia. Po wybraniu poziomu samopoczucia, użytkownik zaznacza swoje aktywności i dodaje krótką notatkę. Zebrane informacje automatycznie zapisują się w tabeli, umożliwiając analizę długoterminowych trendów.",
+          "Aplikacja do wywiadu z samopoczucia pozwala użytkownikom śledzić swoje codzienne doświadczenia. Po wybraniu poziomu samopoczucia, użytkownik zaznacza swoje aktywności i dodaje krótką notatkę. Zebrane informacje  zapisują się w tabeli, umożliwiając analizę  trendów.",
         // Skills Text
         skillsHeader: "Umiejętności",
         skillsText: "Technologie i narzędzia z których korzystam.",
