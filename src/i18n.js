@@ -44,7 +44,15 @@ i18n.use(initReactI18next).init({
         //Proejct4
         project4Header: "Aplikacja Pogodowa",
         project4Text:
-          "Aplikacja pogodowa której napisane było zmotywowane poznaniem tematyki API. Prosta aplikacja pozwala na uzyskanie informacji pogodowych takich jak: temperatura, ciśnienie, godzina wschodu czy zachodu słońca. Istnieje możliwość podania interesującego nas miasta.",
+          "Aplikacja pogodowa której napisane było zmotywowane poznaniem tematyki API. Aplikacja pozwala na uzyskanie informacji pogodowych: temperatura, ciśnienie, godzina wschodu czy zachodu słońca. Istnieje możliwość podania interesującego nas miasta.",
+        //Proejct5
+        project5Header: "Aplikacja Pokedex",
+        project5Text:
+          "Projekt Pokedex korzysta z zewnętrznego interfejsu programowania aplikacji (API), aby dynamicznie pobierać dane o Pokemonach z I generacji. Dzięki temu użytkownicy mają dostęp do aktualnych informacji, zapewniając interaktywne i pełne doświadczenie z eksploracji ich.",
+        //Proejct6
+        project6Header: "Aplikacja Mood-App",
+        project6Text:
+          "Aplikacja do wywiadu z samopoczucia pozwala użytkownikom śledzić swoje codzienne doświadczenia. Po wybraniu poziomu samopoczucia, użytkownik zaznacza swoje aktywności i dodaje krótką notatkę. Zebrane informacje automatycznie zapisują się w tabeli, umożliwiając analizę długoterminowych trendów.",
         // Skills Text
         skillsHeader: "Umiejętności",
         skillsText: "Technologie i narzędzia z których korzystam.",
@@ -115,6 +123,14 @@ i18n.use(initReactI18next).init({
         project4Header: "Weather App",
         project4Text:
           "The weather application which was written motivated by learning about the API. A simple application allows you to obtain weather information such as: temperature, pressure, time of sunrise or sunset. You can enter the city you are interested in.",
+        //Proejct5
+        project5Header: "Aplication  Pokedex",
+        project5Text:
+          "The Pokedex project uses an external application programming interface (API) to dynamically retrieve data about Generation I Pokemon. This gives users access to up-to-date information, providing an interactive and complete experience of exploring it.",
+        //Proejct6
+        project6Header: "Aplication  Mood-App",
+        project6Text:
+          "The mood interview application allows users to track their daily experiences. After selecting their mood level, users mark their activities and add a brief note. The collected information is automatically saved in a table, enabling the analysis of long-term trends.",
         // Skills Text
         skillsHeader: "Skills",
         skillsText: "Technologies and tools I use.",

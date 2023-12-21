@@ -79,7 +79,7 @@ const AboutMe = () => {
                     </li>
                   </ul>
                 </div>
-                <a href="https://adriandworak.pl/wp-content/uploads/2023/02/Adrian-Dworak-CV.pdf">
+                <a href="http://adriandworak.pl/wp-content/uploads/2023/12/Adrian-Dworak-CV-2023.pdf">
                   <button className="btn-cv-hover btn-cv">
                     {" "}
                     {t("cvText")}
