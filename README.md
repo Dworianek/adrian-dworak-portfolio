@@ -59,7 +59,7 @@ Repozytorium Portfolio zawiera kod źródłowy mojej strony portfolio. Strona sk
 1. Sklonuj repozytorium na swój lokalny komputer.
 2. Otwórz terminal w katalogu projektu i wykonaj polecenie `npm install` w celu zainstalowania zależności.
 3. Uruchom aplikację za pomocą polecenia `npm start`.
-4. Przeglądaj sekcje, projekty i umiejętności na swojej stronie portfolio.
+4. Przeglądaj sekcje, projekty i umiejętności na mojej stronie portfolio.
 5. Zmieniaj język strony z polskiego na angielski i odwrotnie.
 
 ## Autor
