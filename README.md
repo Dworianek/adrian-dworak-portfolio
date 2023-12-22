@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Link do projektu
 
-## Available Scripts
+https://dworianek.github.io/adrian-dworak-portfolio/
 
-In the project directory, you can run:
+## Opis
 
-### `npm start`
+Repozytorium Portfolio zawiera kod źródłowy mojej strony portfolio. Strona składa się z pięciu sekcji, prezentujących informacje o mnie, moje projekty programistyczne, umiejętności, doświadczenie zawodowe, dane kontaktowe oraz stopkę z informacjami o autorze strony i linkami do social mediów. Dodatkowo strona posiada funkcję zmiany języka z polskiego na angielski i odwrotnie.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![image](https://github.com/Dworianek/adrian-dworak-portfolio/assets/45004601/345990ed-6a9a-4125-b27a-574d688828fa)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Struktura Strony
 
-### `npm test`
+1. **Informacje o Mnie:**
+   - Podstawowe informacje o mnie, wraz z przyciskiem do pobrania mojego CV.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![image](https://github.com/Dworianek/adrian-dworak-portfolio/assets/45004601/484b9ff2-2e54-4357-8f61-b59c68a686d2)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+2. **Projekty:**
+   - Galeria moich projektów programistycznych.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://github.com/Dworianek/adrian-dworak-portfolio/assets/45004601/86cb4896-146c-41fd-bc26-744c4c7401f1)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+3. **Umiejętności:**
+   - Prezentacja mojego stacka technologicznego.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![image](https://github.com/Dworianek/adrian-dworak-portfolio/assets/45004601/5c9e5da6-78cb-4713-acca-dd6b4ab4382b)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4. **Doświadczenie:**
+   - Przebieg mojej kariery zawodowej.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![image](https://github.com/Dworianek/adrian-dworak-portfolio/assets/45004601/5cd91b9b-9235-42cb-b5cf-d9d43d81493d)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+5. **Kontakt:**
+   - Dane kontaktowe.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![image](https://github.com/Dworianek/adrian-dworak-portfolio/assets/45004601/d5c8c294-15ee-415b-9948-0904020aff2b)
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+6. **Stopa:**
+   - Informacje o autorze strony i linki do social mediów.
 
-### Analyzing the Bundle Size
+![image](https://github.com/Dworianek/adrian-dworak-portfolio/assets/45004601/bb4c740b-9ebb-422b-9467-9a5fc3e63fad)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+## Technologie
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **Framework JavaScript:** React
+- **Biblioteka do Stylingu:** Bootstrap
+- **Biblioteka do Tłumaczeń:** i18n
 
-### Advanced Configuration
+## Instrukcje Użytkowania
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+1. Sklonuj repozytorium na swój lokalny komputer.
+2. Otwórz terminal w katalogu projektu i wykonaj polecenie `npm install` w celu zainstalowania zależności.
+3. Uruchom aplikację za pomocą polecenia `npm start`.
+4. Przeglądaj sekcje, projekty i umiejętności na swojej stronie portfolio.
+5. Zmieniaj język strony z polskiego na angielski i odwrotnie.
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Autor
+Adrian Dworak
